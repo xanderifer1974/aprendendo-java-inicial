@@ -1,0 +1,13 @@
+package br.com.taxmanager.entities;
+
+public class Company extends TaxPayer {
+
+	@Override
+	public Double tax() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
+
+}

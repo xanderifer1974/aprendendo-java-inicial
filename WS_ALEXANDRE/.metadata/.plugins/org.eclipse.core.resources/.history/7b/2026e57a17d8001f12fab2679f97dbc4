@@ -1,0 +1,5 @@
+package br.com.taxmanager.entities;
+
+public class TaxPayer {
+
+}

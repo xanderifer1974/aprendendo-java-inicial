@@ -1,0 +1,5 @@
+package br.com.reservationmanager.model.exception;
+
+public class DomainException {
+
+}

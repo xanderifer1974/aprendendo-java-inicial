@@ -1,0 +1,7 @@
+package br.com.taxmanager.entities;
+
+public class Company extends TaxPayer {
+	
+	
+
+}
